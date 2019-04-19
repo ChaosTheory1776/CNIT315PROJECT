@@ -26,5 +26,5 @@ int main()
 
 typedef struct Node
 {
-    //char* 
+    //char* playtime
 }
