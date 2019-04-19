@@ -21,6 +21,7 @@ int main()
     printf("Welcome to Fortress.\n");
     printf("Do you have an account? (Y/N)\n");
     printf("Peter can access this wghen the stars align properly :) \n");
+    printf("Peter was here");
     
     return 0;
 }
